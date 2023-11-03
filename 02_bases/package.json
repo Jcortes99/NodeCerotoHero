@@ -1,0 +1,16 @@
+{
+  "name": "02_bases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Jairo Andres Cortes R.",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
